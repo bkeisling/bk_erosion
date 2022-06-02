@@ -1,4 +1,4 @@
-# greenland_plot_erosion_result.py - BK Erosion test - Does allie need to approve this?
+# greenland_plot_erosion_result.py - BK Erosion test - Trying to make this commit into a new branch.
 import netCDF4 as nc
 #import matplotlib.pyplot as plt
 import numpy as np
