@@ -1,4 +1,4 @@
-# greenland_plot_erosion_result.py - BK Erosion
+# greenland_plot_erosion_result.py - BK Erosion test
 import netCDF4 as nc
 #import matplotlib.pyplot as plt
 import numpy as np
