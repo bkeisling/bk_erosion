@@ -1,4 +1,4 @@
-# greenland_plot_erosion_result.py - BK Erosion test
+# greenland_plot_erosion_result.py - BK Erosion test - Does allie need to approve this?
 import netCDF4 as nc
 #import matplotlib.pyplot as plt
 import numpy as np
