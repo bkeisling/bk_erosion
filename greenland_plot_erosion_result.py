@@ -1,4 +1,4 @@
-# greenland_plot_erosion_result.py - BK Erosion test - Trying to make this commit into a new branch.
+# greenland_plot_erosion_result.py - BK Erosion test - Trying to make this commit into a new branch. and now allie is trying to add something at the same time as benjamin
 import netCDF4 as nc
 #import matplotlib.pyplot as plt
 import numpy as np
