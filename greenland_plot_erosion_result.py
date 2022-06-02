@@ -1,4 +1,4 @@
-# greenland_plot_erosion_result.py
+# greenland_plot_erosion_result.py - BK Erosion
 import netCDF4 as nc
 #import matplotlib.pyplot as plt
 import numpy as np
@@ -16,7 +16,7 @@ fn='/Users/keislingldeo/Documents/lamont21-22/greenland_erosion/data/rip33_gdgt_
 data=np.loadtxt("./rip33_gdgt_1.75_0.5/cdepthsum_final.txt")
 
 
-##PLOT THE TOTAL EROSION
+##PLOT THE TOTAL EROSION 
 #plt.imshow(erosionsum, origin='lower', cmap=cm.viridis, norm=colors.LogNorm())
 #plt.clim([1e-1,1e3])
 #plt.colorbar()
